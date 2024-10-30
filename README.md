@@ -4,7 +4,7 @@ Autopsy of Android software with Python! 👽
 # APK editor
 
 <p align="center">
-  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/andlog.png" alt="APK" width="310" height="271" />
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/images/andlog.png" alt="APK" width="310" height="271" />
 </p>
 
 
