@@ -95,9 +95,42 @@ The file is created in the path of the apk file.
 
 images
 -
-Use this menu to extract icons or all used photos (in any format!).
+Use this menu to extract icons or all used photos (**in any format!**).
 Depending on the number of images, the extraction operation takes time.  
 <p align="center">
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(489).png" alt="APK" width="453" height="255" />
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(497).png" alt="APK" width="453" height="255" />
+</p>
+
+fonts
+-
+Click this option for the names of the fonts used
+Returns a list of used fonts
+It may not recognize all fonts
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(490).png" alt="APK" width="453" height="255" />
+</p>
+
+files
+-
+Use this option to extract any type of file (**in any type of format!**).
+Click on the combo box to display a list of suggested files
+Or extract the desired file by selecting the desired format in the box
+After specifying the file, specify the folder where the extracted files will be copied
+Then wait for the extraction operation to finish.
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(491).png" alt="APK" width="453" height="255" />
+</p>
+
+dev data 
+- 
+This menu extracts more information
+Information such as:
+1. Access  
+2. Activities  
+3. Services used  
+You can also open the program page in Google Play with the "google play" option
+And see more information.
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(492).png" alt="APK" width="453" height="255" />
 </p>
