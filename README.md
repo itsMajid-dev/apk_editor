@@ -33,7 +33,21 @@ Written by
 Python and 16 Python packages
 
 
-INSTALL
+download & INSTALL
 =====
+To install   look for a file called Setup_ANALISE.exe in this repository and download it.📥
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(479).png" alt="APK" width="500" height="281" />
+</p>
+Installing the software is very simple, with just a few clicks
 
 
+
+RUN
+=====
+After installation, if you click the add to desktop option, the program **shortcut** will be created, or by going to the installation path,
+Then click on the executable file (exe) to run the program  
+*Tip » At first, it may take some time for the program to run, wait a little...*
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(482).png" alt="APK" width="500" height="281" />
+</p>
