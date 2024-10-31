@@ -136,9 +136,45 @@ And see more information.
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(492).png" alt="APK" width="453" height="255" />
 </p>
 
-**Access**
+**Access & permissions**
 <p align="center">
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(493).png" alt="APK" width="453" height="255" />
 </p>
 The permissions option  , shows the permissions that the software needs
 You write each access in one line, you can search the lines in Google to find out what the software is
+
+
+**services**
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(494).png" alt="APK" width="453" height="255" />
+</p>
+The services option shows a list of services used in the software, get more information by searching for each service.
+
+**and other**
+
+
+History
+=====
+
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(496).png" alt="APK" width="453" height="255" />
+</p>
+In this section, it shows a list of the names of the applications that have been analyzed. If the names of the software are included in this table, the information has been extracted correctly.
+
+
+memory manager
+=====
+
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(483).png" alt="APK" width="453" height="255" />
+</p>
+This option shows the amount of memory used.
+ In order to double the speed of analysis, the program stores information and files of all software in one place of the system.
+so that if you choose the same program for analysis, it will show the information quickly and without the need for additional processing.
+This work occupies the system volume over time (Analysis of at least 3 software) use this option
+
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(484).png" alt="APK" width="453" height="255" />
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(485).png" alt="APK" width="453" height="255" />
+</p>
+
