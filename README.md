@@ -7,6 +7,9 @@ Autopsy of Android software with Python! 👽
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/images/andlog.png" alt="APK" width="310" height="271" />
 </p>
 
+> [!WARNING]
+> The software is completely written with Python and is close source. Message <a href='https://github.com/itsMajid-dev'>me</a> to get the source code  
+
 
 Android software analysis (apk)
 With this program, you can extract various information from APK packages
@@ -27,10 +30,11 @@ Each apk file only needs to extract data from it once, so extract it once and se
 Features
 1. One time processing
 2. Get information about all apk versions
+3. ...
 
-Written by
+**Written by**
 
-Python and 16 Python packages
+Python and 14 Python packages
 
 
 download & INSTALL
@@ -177,4 +181,21 @@ This work occupies the system volume over time (Analysis of at least 3 software)
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(484).png" alt="APK" width="453" height="255" />
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(485).png" alt="APK" width="453" height="255" />
 </p>
+
+
+Help
+=====
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(498).png" alt="APK" width="453" height="255" />
+</p>
+
+
+other informations:  
+=====
+🟩RAM : **67 Mb to 300 Mb**  
+🟩DISK : **17 Mb/s**  
+🟩number of package : **14**  
+🟩line code ~ **800 line**  
+🟩size : **36 Mb**  
+🟩language : **python3**   
 
