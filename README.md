@@ -49,5 +49,25 @@ After installation, if you click the add to desktop option, the program **shortc
 Then click on the executable file (exe) to run the program  
 *Tip » At first, it may take some time for the program to run, wait a little...*
 <p align="center">
-  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(482).png" alt="APK" width="500" height="281" />
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(482).png" alt="APK" width="453" height="255" />
 </p>
+
+**Options**:  
+
+  1. Analysis (click here to analyze apk)
+  2. History (shows the name of the analyzed software)
+  3. Memory management (shows the amount of used memory, with this option you can clear the used memory)
+
+
+
+Analysis
+=====
+To analyze, click on the files option from the top menu and then the "select" option and choose an APK format file.
+
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(486).png" alt="APK" width="453" height="255" />
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(487).png" alt="APK" width="453" height="255" />
+</p>
+
+Wait for the files and data to be extracted.Wait until the close button appears  
+**Tip » If you have already selected the program for analysis, there is no need to wait You can immediately close the window.**
