@@ -8,7 +8,7 @@ Autopsy of Android software with Python! 👽
 </p>
 
 > [!WARNING]
-> The software is completely written with Python and is close source. Message <a href='https://github.com/itsMajid-dev'>me</a> to get the source code  
+> This software is completely written in Python and is free, but the source is close. Message me to get the source code 
 
 
 Android software analysis (apk)
