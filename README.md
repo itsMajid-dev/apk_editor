@@ -37,6 +37,7 @@ download & INSTALL
 =====
 To install   look for a file called Setup_ANALISE.exe in this repository and download it.📥
 <p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(477).png" alt="APK" width="453" height="255" />
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(479).png" alt="APK" width="453" height="255" />
 </p>
 Installing the software is very simple, with just a few clicks
