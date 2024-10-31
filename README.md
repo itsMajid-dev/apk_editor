@@ -135,3 +135,10 @@ And see more information.
 <p align="center">
   <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(492).png" alt="APK" width="453" height="255" />
 </p>
+
+**Access**
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(493).png" alt="APK" width="453" height="255" />
+</p>
+The permissions option  , shows the permissions that the software needs
+You write each access in one line, you can search the lines in Google to find out what the software is
