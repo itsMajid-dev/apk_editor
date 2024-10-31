@@ -8,23 +8,21 @@ Autopsy of Android software with Python! 👽
 </p>
 
 
-
-
-Autopsy of Android software with Python
+Android software analysis (apk)
 With this program, you can extract various information from APK packages
 Information such as:
-1. Access to the software
+1. Software Access
 2. Photos and icons used
-3. Used libraries
+3. Libraries used
 4. Fonts used
-5. Basic information (version, package name, etc.)
-6. Application Services
+5. Basic information (version, package name, packages, configs, settings, etc.)
+6. Application services
 7. Data recipients
 8. And...
 You can also extract different files from it.
+(extracting any type of file in any format)
 
-Each apk file only needs to extract data from it once, as a result, extract it once and see the information again and again.
-
+Each apk file only needs to extract data from it once, so extract it once and see the information again and again.
 
 Features
 1. One time processing
@@ -33,3 +31,9 @@ Features
 Written by
 
 Python and 16 Python packages
+
+
+INSTALL
+=====
+
+
