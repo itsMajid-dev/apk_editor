@@ -71,3 +71,33 @@ To analyze, click on the files option from the top menu and then the "select" op
 
 Wait for the files and data to be extracted.Wait until the close button appears  
 **Tip » If you have already selected the program for analysis, there is no need to wait You can immediately close the window.**
+
+
+options
+=====
+
+base data
+- 
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(488).png" alt="APK" width="453" height="255" />
+</p>
+
+This menu displays the basic and basic information of the software, with the options below, you can view this information (plus other information) in formats 
+
+**Excel file**  
+**html file**  
+**json file**  
+**And even in text form**  
+save  
+
+The file is created in the path of the apk file.  
+
+
+images
+-
+Use this menu to extract icons or all used photos (in any format!).
+Depending on the number of images, the extraction operation takes time.  
+<p align="center">
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(489).png" alt="APK" width="453" height="255" />
+  <img src="https://github.com/itsMajid-dev/apk_editor/blob/main/Screenshots/Screenshot%20(497).png" alt="APK" width="453" height="255" />
+</p>
